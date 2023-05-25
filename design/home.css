@@ -80,7 +80,7 @@ body {
 
 .home{
     height:100vh;
-    background: url('bgi.png')no-repeat;
+    background: url('/imgs/bgi.png')no-repeat;
     background-position: right;
     background-size: cover;
     display: flex;
